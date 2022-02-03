@@ -7,7 +7,7 @@ public:
         
         while (j<nums.size())
         {
-            if (nums[j]==nums[j-1])
+            if (nums[j]==nums[i])
             {
                 j++;
             }
